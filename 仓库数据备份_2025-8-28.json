@@ -1,0 +1,1045 @@
+{
+  "products": [
+    {
+      "id": "1756211156775",
+      "name": "TOYOTA RAV4",
+      "category": "汽车电尾门",
+      "stock": 13,
+      "description": "13-19丰田荣放RAV4电尾门双杆上电吸",
+      "notes": "俄罗斯成品仓"
+    },
+    {
+      "id": "1756211331134",
+      "name": "Benz E-Class",
+      "category": "汽车电尾门",
+      "stock": 2,
+      "description": "16+奔驰E级电尾门双杆上电吸",
+      "notes": ""
+    },
+    {
+      "id": "1756211445545",
+      "name": "Benz Vito",
+      "category": "汽车电尾门",
+      "stock": 1,
+      "description": "奔驰威霆电动尾门双杆上吸",
+      "notes": ""
+    },
+    {
+      "id": "1756211505878",
+      "name": "KIA Seltos",
+      "category": "汽车电尾门",
+      "stock": 7,
+      "description": "19+起亚傲跑Seltos电尾门双杆上电吸",
+      "notes": ""
+    },
+    {
+      "id": "1756211567206",
+      "name": "Audi A4L",
+      "category": "汽车电尾门",
+      "stock": 2,
+      "description": "奥迪A4L电尾门双杆上电吸",
+      "notes": ""
+    },
+    {
+      "id": "1756211684687",
+      "name": "HAVAL F7",
+      "category": "汽车电尾门",
+      "stock": 11,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756211791190",
+      "name": "Mazda CX-5",
+      "category": "汽车电尾门",
+      "stock": 4,
+      "description": "17+马自达CX-5电尾门双杆下电吸",
+      "notes": ""
+    },
+    {
+      "id": "1756211831191",
+      "name": "CHANGAN CS75",
+      "category": "汽车电尾门",
+      "stock": 8,
+      "description": "18+长安CS75电尾门双杆上电吸（18+CHANGAN CS75）",
+      "notes": ""
+    },
+    {
+      "id": "1756211894175",
+      "name": "16-19 Mitsubishi Pajero",
+      "category": "汽车电尾门",
+      "stock": 2,
+      "description": "16-19三菱帕杰罗电尾门双杆上电吸",
+      "notes": ""
+    },
+    {
+      "id": "1756212011055",
+      "name": "VW Passat",
+      "category": "汽车电尾门",
+      "stock": 1,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756212085608",
+      "name": "TOYOTA Camry",
+      "category": "汽车电尾门",
+      "stock": 1,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756212278183",
+      "name": "TOYOTA LAND CRUISER 200",
+      "category": "汽车电尾门",
+      "stock": 2,
+      "description": "12-20兰德酷路泽电尾门双杆上电吸",
+      "notes": ""
+    },
+    {
+      "id": "1756212375343",
+      "name": "MODELS LexusES",
+      "category": "汽车电尾门",
+      "stock": 1,
+      "description": "18+雷克萨斯ES电尾门双杆下电吸",
+      "notes": ""
+    },
+    {
+      "id": "1756212431184",
+      "name": "TOYOTA  CHR",
+      "category": "汽车电尾门",
+      "stock": 9,
+      "description": "18+丰田奕泽CHR电尾门双杆上电吸（18+TOYOTA IZOA CHR）",
+      "notes": ""
+    },
+    {
+      "id": "1756212857745",
+      "name": "Geely X70",
+      "category": "汽车电尾门",
+      "stock": 9,
+      "description": "16+吉利博越电动尾门双杆ZC上吸.",
+      "notes": ""
+    },
+    {
+      "id": "1756212963743",
+      "name": "TOYOTA FORTOUNER",
+      "category": "汽车电尾门",
+      "stock": 1,
+      "description": "16+丰田穿越者电尾门双杆上电吸",
+      "notes": ""
+    },
+    {
+      "id": "1756212999728",
+      "name": "12-16 Honda CRV",
+      "category": "汽车电尾门",
+      "stock": 4,
+      "description": "12-16本田CRV电尾门双杆上电吸（12-16HINDA CRV）",
+      "notes": ""
+    },
+    {
+      "id": "1756213075720",
+      "name": "21+Tank 300",
+      "category": "汽车电尾门",
+      "stock": 2,
+      "description": "12-16本田CRV电尾门双杆上电吸（12-16HINDA CRV）",
+      "notes": ""
+    },
+    {
+      "id": "1756213147896",
+      "name": "Benz C",
+      "category": "汽车电尾门",
+      "stock": 4,
+      "description": "15-21奔驰C级电尾门双杆上电吸（15-21 BENZ Class）",
+      "notes": ""
+    },
+    {
+      "id": "1756213680050",
+      "name": "BCD-601A",
+      "category": "汽车电吸门",
+      "stock": 19,
+      "description": "奔驰大G尾门锁",
+      "notes": ""
+    },
+    {
+      "id": "1756213840969",
+      "name": "FTLC-501",
+      "category": "汽车电吸门",
+      "stock": 14,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756213942441",
+      "name": "BCB-501",
+      "category": "汽车电吸门",
+      "stock": 19,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214056697",
+      "name": "BCGJ-036",
+      "category": "汽车电吸门",
+      "stock": 10,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214085201",
+      "name": "FTBD-501",
+      "category": "汽车电吸门",
+      "stock": 16,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214117066",
+      "name": "FTDX002-HLD",
+      "category": "汽车电吸门",
+      "stock": 16,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214170082",
+      "name": "AD6N-501",
+      "category": "汽车电吸门",
+      "stock": 30,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214186129",
+      "name": "FT02-501",
+      "category": "汽车电吸门",
+      "stock": 22,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214202674",
+      "name": "LSNX-501",
+      "category": "汽车电吸门",
+      "stock": 16,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214327707",
+      "name": "BK01-501",
+      "category": "汽车电吸门",
+      "stock": 6,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214377450",
+      "name": "DA02-501",
+      "category": "汽车电吸门",
+      "stock": 3,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214441066",
+      "name": "TSLDX027",
+      "category": "汽车电吸门",
+      "stock": 2,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214494674",
+      "name": "WDNX1-501",
+      "category": "汽车电吸门",
+      "stock": 14,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214509250",
+      "name": "BCE-501",
+      "category": "汽车电吸门",
+      "stock": 7,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214522354",
+      "name": "LT01-501",
+      "category": "汽车电吸门",
+      "stock": 0,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756214774427",
+      "name": "BCA-501",
+      "category": "汽车电吸门",
+      "stock": 10,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756215418147",
+      "name": "TUR-501",
+      "category": "汽车电吸门",
+      "stock": 20,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756217365598",
+      "name": "19+哈弗F7",
+      "category": "汽车电尾门",
+      "stock": 8,
+      "description": "19+哈弗F7电尾门双杆上电吸",
+      "notes": ""
+    },
+    {
+      "id": "1756217411869",
+      "name": "BCD-501",
+      "category": "汽车电吸门",
+      "stock": 10,
+      "description": "",
+      "notes": ""
+    },
+    {
+      "id": "1756217724142",
+      "name": "tank700",
+      "category": "汽车电吸门",
+      "stock": 1,
+      "description": "一箱",
+      "notes": ""
+    },
+    {
+      "id": "1756217783902",
+      "name": "WJ01-501",
+      "category": "汽车电吸门",
+      "stock": 2,
+      "description": "问界M5电吸门",
+      "notes": ""
+    },
+    {
+      "id": "1756217868382",
+      "name": "tank400",
+      "category": "汽车电吸门",
+      "stock": 2,
+      "description": "岚图电吸门",
+      "notes": ""
+    },
+    {
+      "id": "1756218256630",
+      "name": "Camry",
+      "category": "汽车电尾门",
+      "stock": 4,
+      "description": "18+丰田凯美瑞电尾门",
+      "notes": ""
+    },
+    {
+      "id": "1756218371407",
+      "name": "捷达 VS7=",
+      "category": "汽车电尾门",
+      "stock": 4,
+      "description": "ZCZ0662.19+捷达 VS7 电尾门",
+      "notes": ""
+    },
+    {
+      "id": "1756218585903",
+      "name": "丰田小霸王",
+      "category": "汽车电尾门",
+      "stock": 12,
+      "description": "13+丰田WISH ZC小霸王电尾门双杆上电吸（13+TOYOTA Wish）",
+      "notes": ""
+    },
+    {
+      "id": "1756218619959",
+      "name": "丰田穿越者",
+      "category": "汽车电吸门",
+      "stock": 8,
+      "description": "16+丰田穿越者电尾门双杆上电吸（16+TOYOTA FORTOUNER）",
+      "notes": ""
+    },
+    {
+      "id": "1756218659559",
+      "name": "吉利缤越",
+      "category": "汽车电尾门",
+      "stock": 4,
+      "description": "20+吉利缤越电尾门双杆上电吸（20+GEELY Coolray）",
+      "notes": ""
+    },
+    {
+      "id": "1756218711607",
+      "name": "三菱帕杰罗",
+      "category": "汽车电尾门",
+      "stock": 4,
+      "description": "16-19三菱帕杰罗电尾门双杆上电吸",
+      "notes": ""
+    },
+    {
+      "id": "1756218862992",
+      "name": "斯柯达柯珞克",
+      "category": "汽车电尾门",
+      "stock": 3,
+      "description": "18+斯柯达柯珞克电尾门",
+      "notes": ""
+    },
+    {
+      "id": "1756218898319",
+      "name": "三菱欧蓝德",
+      "category": "汽车电尾门",
+      "stock": 4,
+      "description": "14+三菱欧蓝德电尾门",
+      "notes": ""
+    },
+    {
+      "id": "1756298742818",
+      "name": "HQDX033",
+      "category": "汽车电吸门",
+      "stock": 12,
+      "description": "红旗电吸门",
+      "notes": ""
+    }
+  ],
+  "transactions": [
+    {
+      "id": "1756211156775",
+      "productId": "1756211156775",
+      "productName": "TOYOTA RAV4",
+      "type": "IN",
+      "quantity": 13,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:25:56.775Z",
+      "previousStock": 0,
+      "newStock": 13
+    },
+    {
+      "id": "1756211331134",
+      "productId": "1756211331134",
+      "productName": "Benz E-Class",
+      "type": "IN",
+      "quantity": 2,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:28:51.134Z",
+      "previousStock": 0,
+      "newStock": 2
+    },
+    {
+      "id": "1756211445545",
+      "productId": "1756211445545",
+      "productName": "Benz Vito",
+      "type": "IN",
+      "quantity": 1,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:30:45.545Z",
+      "previousStock": 0,
+      "newStock": 1
+    },
+    {
+      "id": "1756211505878",
+      "productId": "1756211505878",
+      "productName": "KIA Seltos",
+      "type": "IN",
+      "quantity": 7,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:31:45.878Z",
+      "previousStock": 0,
+      "newStock": 7
+    },
+    {
+      "id": "1756211567206",
+      "productId": "1756211567206",
+      "productName": "Audi A4L",
+      "type": "IN",
+      "quantity": 2,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:32:47.206Z",
+      "previousStock": 0,
+      "newStock": 2
+    },
+    {
+      "id": "1756211684687",
+      "productId": "1756211684687",
+      "productName": "HAVAL F7",
+      "type": "IN",
+      "quantity": 11,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:34:44.687Z",
+      "previousStock": 0,
+      "newStock": 11
+    },
+    {
+      "id": "1756211791190",
+      "productId": "1756211791190",
+      "productName": "Mazda CX-5",
+      "type": "IN",
+      "quantity": 4,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:36:31.190Z",
+      "previousStock": 0,
+      "newStock": 4
+    },
+    {
+      "id": "1756211831191",
+      "productId": "1756211831191",
+      "productName": "CHANGAN CS75",
+      "type": "IN",
+      "quantity": 8,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:37:11.191Z",
+      "previousStock": 0,
+      "newStock": 8
+    },
+    {
+      "id": "1756211894175",
+      "productId": "1756211894175",
+      "productName": "16-19 Mitsubishi Pajero",
+      "type": "IN",
+      "quantity": 2,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:38:14.175Z",
+      "previousStock": 0,
+      "newStock": 2
+    },
+    {
+      "id": "1756212011055",
+      "productId": "1756212011055",
+      "productName": "VW Passat",
+      "type": "IN",
+      "quantity": 1,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:40:11.055Z",
+      "previousStock": 0,
+      "newStock": 1
+    },
+    {
+      "id": "1756212085608",
+      "productId": "1756212085608",
+      "productName": "TOYOTA Camry",
+      "type": "IN",
+      "quantity": 1,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:41:25.608Z",
+      "previousStock": 0,
+      "newStock": 1
+    },
+    {
+      "id": "1756212278183",
+      "productId": "1756212278183",
+      "productName": "TOYOTA LAND CRUISER 200",
+      "type": "IN",
+      "quantity": 2,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:44:38.183Z",
+      "previousStock": 0,
+      "newStock": 2
+    },
+    {
+      "id": "1756212375343",
+      "productId": "1756212375343",
+      "productName": "MODELS LexusES",
+      "type": "IN",
+      "quantity": 1,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:46:15.343Z",
+      "previousStock": 0,
+      "newStock": 1
+    },
+    {
+      "id": "1756212431184",
+      "productId": "1756212431184",
+      "productName": "TOYOTA  CHR",
+      "type": "IN",
+      "quantity": 9,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:47:11.184Z",
+      "previousStock": 0,
+      "newStock": 9
+    },
+    {
+      "id": "1756212857745",
+      "productId": "1756212857745",
+      "productName": "Geely X70",
+      "type": "IN",
+      "quantity": 9,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:54:17.745Z",
+      "previousStock": 0,
+      "newStock": 9
+    },
+    {
+      "id": "1756212963743",
+      "productId": "1756212963743",
+      "productName": "TOYOTA FORTOUNER",
+      "type": "IN",
+      "quantity": 1,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:56:03.743Z",
+      "previousStock": 0,
+      "newStock": 1
+    },
+    {
+      "id": "1756212999728",
+      "productId": "1756212999728",
+      "productName": "12-16 Honda CRV",
+      "type": "IN",
+      "quantity": 4,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:56:39.728Z",
+      "previousStock": 0,
+      "newStock": 4
+    },
+    {
+      "id": "1756213075720",
+      "productId": "1756213075720",
+      "productName": "21+Tank 300",
+      "type": "IN",
+      "quantity": 2,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:57:55.720Z",
+      "previousStock": 0,
+      "newStock": 2
+    },
+    {
+      "id": "1756213147896",
+      "productId": "1756213147896",
+      "productName": "Benz C",
+      "type": "IN",
+      "quantity": 4,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T12:59:07.896Z",
+      "previousStock": 0,
+      "newStock": 4
+    },
+    {
+      "id": "1756213680050",
+      "productId": "1756213680050",
+      "productName": "BCD-601A",
+      "type": "IN",
+      "quantity": 19,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:08:00.050Z",
+      "previousStock": 0,
+      "newStock": 19
+    },
+    {
+      "id": "1756213840969",
+      "productId": "1756213840969",
+      "productName": "FTLC-501",
+      "type": "IN",
+      "quantity": 14,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:10:40.969Z",
+      "previousStock": 0,
+      "newStock": 14
+    },
+    {
+      "id": "1756213942441",
+      "productId": "1756213942441",
+      "productName": "BCB-501",
+      "type": "IN",
+      "quantity": 15,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:12:22.441Z",
+      "previousStock": 0,
+      "newStock": 15
+    },
+    {
+      "id": "1756214056697",
+      "productId": "1756214056697",
+      "productName": "BCGJ-036",
+      "type": "IN",
+      "quantity": 10,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:14:16.697Z",
+      "previousStock": 0,
+      "newStock": 10
+    },
+    {
+      "id": "1756214085201",
+      "productId": "1756214085201",
+      "productName": "FTBD-501",
+      "type": "IN",
+      "quantity": 16,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:14:45.201Z",
+      "previousStock": 0,
+      "newStock": 16
+    },
+    {
+      "id": "1756214117066",
+      "productId": "1756214117066",
+      "productName": "FTDX002-HLD",
+      "type": "IN",
+      "quantity": 16,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:15:17.066Z",
+      "previousStock": 0,
+      "newStock": 16
+    },
+    {
+      "id": "1756214170082",
+      "productId": "1756214170082",
+      "productName": "AD6N-501",
+      "type": "IN",
+      "quantity": 30,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:16:10.082Z",
+      "previousStock": 0,
+      "newStock": 30
+    },
+    {
+      "id": "1756214186129",
+      "productId": "1756214186129",
+      "productName": "FT02-501",
+      "type": "IN",
+      "quantity": 15,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:16:26.129Z",
+      "previousStock": 0,
+      "newStock": 15
+    },
+    {
+      "id": "1756214202674",
+      "productId": "1756214202674",
+      "productName": "LSNX-501",
+      "type": "IN",
+      "quantity": 12,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:16:42.674Z",
+      "previousStock": 0,
+      "newStock": 12
+    },
+    {
+      "id": "1756214327707",
+      "productId": "1756214327707",
+      "productName": "BK01-501",
+      "type": "IN",
+      "quantity": 6,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:18:47.707Z",
+      "previousStock": 0,
+      "newStock": 6
+    },
+    {
+      "id": "1756214377450",
+      "productId": "1756214377450",
+      "productName": "DA02-501",
+      "type": "IN",
+      "quantity": 3,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:19:37.450Z",
+      "previousStock": 0,
+      "newStock": 3
+    },
+    {
+      "id": "1756214441066",
+      "productId": "1756214441066",
+      "productName": "TSLDX027",
+      "type": "IN",
+      "quantity": 2,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:20:41.066Z",
+      "previousStock": 0,
+      "newStock": 2
+    },
+    {
+      "id": "1756214494674",
+      "productId": "1756214494674",
+      "productName": "WDNX1-501",
+      "type": "IN",
+      "quantity": 14,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:21:34.674Z",
+      "previousStock": 0,
+      "newStock": 14
+    },
+    {
+      "id": "1756214509250",
+      "productId": "1756214509250",
+      "productName": "BCE-501",
+      "type": "IN",
+      "quantity": 4,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:21:49.250Z",
+      "previousStock": 0,
+      "newStock": 4
+    },
+    {
+      "id": "1756214522354",
+      "productId": "1756214522354",
+      "productName": "LT01-501",
+      "type": "IN",
+      "quantity": 2,
+      "notes": "初始库存",
+      "timestamp": "2025-08-26T13:22:02.354Z",
+      "previousStock": 0,
+      "newStock": 2
+    },
+    {
+      "id": "1756214774427",
+      "productId": "1756214774427",
+      "productName": "BCA-501",
+      "type": "IN",
+      "quantity": 8,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 21:26:14",
+      "previousStock": 0,
+      "newStock": 8
+    },
+    {
+      "id": "1756215418147",
+      "productId": "1756215418147",
+      "productName": "TUR-501",
+      "type": "IN",
+      "quantity": 20,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 21:36:58",
+      "previousStock": 0,
+      "newStock": 20
+    },
+    {
+      "id": "1756215477668",
+      "productId": "1756213942441",
+      "productName": "BCB-501",
+      "type": "IN",
+      "quantity": 4,
+      "notes": "",
+      "timestamp": "2025/8/26 21:37:57",
+      "previousStock": 15,
+      "newStock": 19
+    },
+    {
+      "id": "1756216649476",
+      "productId": "1756214202674",
+      "productName": "LSNX-501",
+      "type": "IN",
+      "quantity": 4,
+      "notes": "",
+      "timestamp": "2025/8/26 21:57:29",
+      "previousStock": 12,
+      "newStock": 16
+    },
+    {
+      "id": "1756216664189",
+      "productId": "1756214186129",
+      "productName": "FT02-501",
+      "type": "IN",
+      "quantity": 7,
+      "notes": "",
+      "timestamp": "2025/8/26 21:57:44",
+      "previousStock": 15,
+      "newStock": 22
+    },
+    {
+      "id": "1756216678068",
+      "productId": "1756214509250",
+      "productName": "BCE-501",
+      "type": "IN",
+      "quantity": 3,
+      "notes": "",
+      "timestamp": "2025/8/26 21:57:58",
+      "previousStock": 4,
+      "newStock": 7
+    },
+    {
+      "id": "1756216693173",
+      "productId": "1756214774427",
+      "productName": "BCA-501",
+      "type": "IN",
+      "quantity": 2,
+      "notes": "",
+      "timestamp": "2025/8/26 21:58:13",
+      "previousStock": 8,
+      "newStock": 10
+    },
+    {
+      "id": "1756217365598",
+      "productId": "1756217365598",
+      "productName": "19+哈弗F7",
+      "type": "IN",
+      "quantity": 8,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 22:09:25",
+      "previousStock": 0,
+      "newStock": 8
+    },
+    {
+      "id": "1756217411869",
+      "productId": "1756217411869",
+      "productName": "BCD-501",
+      "type": "IN",
+      "quantity": 10,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 22:10:11",
+      "previousStock": 0,
+      "newStock": 10
+    },
+    {
+      "id": "1756217783902",
+      "productId": "1756217783902",
+      "productName": "WJ01-501",
+      "type": "IN",
+      "quantity": 2,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 22:16:23",
+      "previousStock": 0,
+      "newStock": 2
+    },
+    {
+      "id": "1756217868382",
+      "productId": "1756217868382",
+      "productName": "tank400",
+      "type": "IN",
+      "quantity": 2,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 22:17:48",
+      "previousStock": 0,
+      "newStock": 2
+    },
+    {
+      "id": "1756218256630",
+      "productId": "1756218256630",
+      "productName": "Camry",
+      "type": "IN",
+      "quantity": 8,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 22:24:16",
+      "previousStock": 0,
+      "newStock": 8
+    },
+    {
+      "id": "1756218286543",
+      "productId": "1756218256630",
+      "productName": "Camry",
+      "type": "OUT",
+      "quantity": 4,
+      "notes": "",
+      "timestamp": "2025/8/26 22:24:46",
+      "previousStock": 8,
+      "newStock": 4
+    },
+    {
+      "id": "1756218371407",
+      "productId": "1756218371407",
+      "productName": "捷达 VS7=",
+      "type": "IN",
+      "quantity": 4,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 22:26:11",
+      "previousStock": 0,
+      "newStock": 4
+    },
+    {
+      "id": "1756218585903",
+      "productId": "1756218585903",
+      "productName": "丰田小霸王",
+      "type": "IN",
+      "quantity": 12,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 22:29:45",
+      "previousStock": 0,
+      "newStock": 12
+    },
+    {
+      "id": "1756218619959",
+      "productId": "1756218619959",
+      "productName": "丰田穿越者",
+      "type": "IN",
+      "quantity": 8,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 22:30:19",
+      "previousStock": 0,
+      "newStock": 8
+    },
+    {
+      "id": "1756218659559",
+      "productId": "1756218659559",
+      "productName": "吉利缤越",
+      "type": "IN",
+      "quantity": 4,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 22:30:59",
+      "previousStock": 0,
+      "newStock": 4
+    },
+    {
+      "id": "1756218711607",
+      "productId": "1756218711607",
+      "productName": "三菱帕杰罗",
+      "type": "IN",
+      "quantity": 4,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 22:31:51",
+      "previousStock": 0,
+      "newStock": 4
+    },
+    {
+      "id": "1756218862992",
+      "productId": "1756218862992",
+      "productName": "斯柯达柯珞克",
+      "type": "IN",
+      "quantity": 3,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 22:34:22",
+      "previousStock": 0,
+      "newStock": 3
+    },
+    {
+      "id": "1756218898319",
+      "productId": "1756218898319",
+      "productName": "三菱欧蓝德",
+      "type": "IN",
+      "quantity": 4,
+      "notes": "初始库存",
+      "timestamp": "2025/8/26 22:34:58",
+      "previousStock": 0,
+      "newStock": 4
+    },
+    {
+      "id": "1756223121678",
+      "productId": "1756217724142",
+      "productName": "tank700",
+      "type": "IN",
+      "quantity": 1,
+      "notes": "",
+      "timestamp": "2025/8/26 23:45:21",
+      "previousStock": 0,
+      "newStock": 1
+    },
+    {
+      "id": "1756298742818",
+      "productId": "1756298742818",
+      "productName": "HQDX033",
+      "type": "IN",
+      "quantity": 13,
+      "notes": "初始库存",
+      "timestamp": "2025/8/27 20:45:42",
+      "previousStock": 0,
+      "newStock": 13
+    },
+    {
+      "id": "1756304663099",
+      "productId": "1756298742818",
+      "productName": "HQDX033",
+      "type": "OUT",
+      "quantity": 1,
+      "notes": "Голов Евгений;г.Барнаул",
+      "timestamp": "2025/8/27 22:24:23",
+      "previousStock": 13,
+      "newStock": 12
+    },
+    {
+      "id": "1756304792497",
+      "productId": "1756214522354",
+      "productName": "LT01-501",
+      "type": "OUT",
+      "quantity": 2,
+      "notes": "максим  -5360",
+      "timestamp": "2025/8/27 22:26:32",
+      "previousStock": 2,
+      "newStock": 0
+    }
+  ],
+  "exportDate": "2025-08-28T07:46:38.083Z"
+}
